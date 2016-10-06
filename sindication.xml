@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://webmastertool.naver.com">
+  <id>http://jkeng.mtnsol.com</id>
+  <title><![CDATA[ 동대문구도시가스 ]]></title>
+  <author>
+    <name>주광건설개발</name>
+  </author>
+
+  <updated>2016-10-07T02:48:53+09:00</updated>
+  <link rel="site" href="http://jkeng.mtnsol.com" />
+
+  
+  <entry>
+    <id>http://jkeng.mtnsol.com/posts/2016/09/19/post.html</id>
+    <title><![CDATA[ 동대문구도시가스 ]]></title>
+    <author>
+      <name>주광건설개발</name>
+    </author>
+    <updated>2016-09-19T10:00:00+09:00</updated>
+    <published>2016-09-19T10:00:00+09:00</published>
+    <link rel="via" href="http://jkeng.mtnsol.com/posts/2016/09/19/post.html" />
+    <content type="html"><![CDATA[  
+&lt;p&gt;안녕하세요. 도시가스 공급을 전문적으로 하는 동대문구도시가스 입니다.&lt;br /&gt;
+모든 도시가스 업무를 신속하고 정확하게 처리할 수 있습니다.&lt;br /&gt;
+동대문구도시가스로 주저말고 연락주세요. 최고의 서비스를 보여드리겠습니다.&lt;/p&gt;
+ ]]></content>
+  </entry>
+  
+</feed>
